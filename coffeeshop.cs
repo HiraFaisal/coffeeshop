@@ -1,5 +1,6 @@
 using System;
 
+//added a comment to test the github actions
 public class CoffeeShop
 {
     private IMenu _menu;
